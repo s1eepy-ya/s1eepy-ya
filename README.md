@@ -44,6 +44,6 @@
 <br/>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=s1eepy-ya&style=for-the-badge&color=grey" alt="profile views"/>
+<img src="https://visitcount.itsvg.in/api?id=s1eepy-ya&label=views&color=12&icon=0&pretty=false" alt="profile views"/>
 
 </div>
