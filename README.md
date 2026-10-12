@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya+%F0%9F%92%A4;forever+young+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya+%F0%9F%92%A4;forever+young+" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 <!-- STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=s1eepy-ya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff" height="170" alt="stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1eepy-ya&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="170" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1eepy-ya&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_progress=true" height="170" alt="top langs"/>
 
 <br/>
 
