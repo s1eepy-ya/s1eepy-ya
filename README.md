@@ -30,6 +30,7 @@
 ### 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌
 
 <img src="https://img.shields.io/badge/python-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+<img src="https://img.shields.io/badge/html5-%23ffffff.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML"/>
 
 <br/><br/>
 
@@ -43,6 +44,6 @@
 <br/>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=s1eepy-ya&style=for-the-badge&color=ffffff&labelColor=000000&label=VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=s1eepy-ya&style=for-the-badge&color=grey" alt="profile views"/>
 
 </div>
