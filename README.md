@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=𝒉𝒆𝒚%2C+𝒊'𝒎+𝒔1𝒆𝒆𝒑𝒚-𝒚𝒂;𝒇𝒐𝒓𝒆𝒗𝒆𝒓+𝒚𝒐𝒖𝒏𝒈" alt="Typing SVG" />
+<h2>𝒉𝒆𝒚, 𝒊'𝒎 𝒔1𝒆𝒆𝒑𝒚-𝒚𝒂</h2>
+<p><i>𝒇𝒐𝒓𝒆𝒗𝒆𝒓 𝒚𝒐𝒖𝒏𝒈</i></p>
 
 <br/>
 
