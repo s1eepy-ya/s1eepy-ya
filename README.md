@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya+%F0%9F%92%A4;forever+young+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya;forever+young+" alt="Typing SVG" />
 
 <br/>
 
