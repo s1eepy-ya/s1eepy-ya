@@ -41,9 +41,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/s1eepy-ya/s1eepy-ya/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://visitcount.itsvg.in/api?id=s1eepy-ya&label=views&color=12&icon=0&pretty=false" alt="profile views"/>
-
 </div>
