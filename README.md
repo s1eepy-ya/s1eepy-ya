@@ -1,36 +1,36 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya+%F0%9F%92%A4;python+enthusiast+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya+%F0%9F%92%A4;forever+young+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
 <!-- BADGES -->
 <a href="https://discord.com/users/tsunderetro">
-  <img src="https://img.shields.io/badge/tsunderetro-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/tsunderetro-%23ffffff.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/>
 </a>
 <a href="https://steamcommunity.com/id/tsundero4ka">
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  <img src="https://img.shields.io/badge/steam-%23ffffff.svg?style=for-the-badge&logo=steam&logoColor=black" alt="Steam"/>
 </a>
 
 <br/><br/>
 
 <!-- STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=s1eepy-ya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=s1eepy-ya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff" height="170" alt="stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1eepy-ya&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1eepy-ya&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="170" alt="top langs"/>
 
 <br/>
 
 <!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=s1eepy-ya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=s1eepy-ya&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=c9d1d9" alt="streak"/>
 
 <br/><br/>
 
 <!-- TECH STACK -->
 ### 🛠️ tech stack
 
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/python-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 
 <br/><br/>
 
@@ -44,6 +44,6 @@
 <br/>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=s1eepy-ya&style=for-the-badge&color=0d1117&label=VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=s1eepy-ya&style=for-the-badge&color=ffffff&labelColor=000000&label=VIEWS" alt="profile views"/>
 
 </div>
