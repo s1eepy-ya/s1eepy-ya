@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya+%F0%9F%92%A4;forever+young+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=hey%2C+i'm+s1eepy-ya;forever+young" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <!-- TECH STACK -->
-### 🛠️ tech stack
+### 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌
 
 <img src="https://img.shields.io/badge/python-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 
