@@ -1,10 +1,8 @@
 <!-- ======================================================== -->
-<!-- 1. САМЫЙ ВЕРХНИЙ БАННЕР / ТВОЯ ГИФКА                      -->
-<!-- Перетащи свою гифку в окно редактирования GitHub,          -->
-<!-- скопируй созданную ссылку и вставь её в src="..."        -->
+<!-- 1. САМЫЙ ВЕРХНИЙ БАННЕР: ТВОЯ ГИФКА (banner.gif)          -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=s1eepy-ya&fontSize=50&fontAlignY=38&desc=forever%20young&descAlignY=60&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/s1eepy-ya/s1eepy-ya/main/banner.gif" width="100%" alt="Header Banner" />
 </p>
 
 <!-- ======================================================== -->
@@ -25,14 +23,13 @@
 <br/>
 
 <!-- ======================================================== -->
-<!-- 3. ДВУХКОЛОНОЧНЫЙ БЛОК (КАРТИНКА СЛЕВА + БИО СПРАВА)     -->
-<!-- Замени src="..." на ссылку к своему арту, когда захочешь -->
+<!-- 3. ДВУХКОЛОНОЧНЫЙ БЛОК: КАРТИНКА С ЛИЛИЯМИ СЛЕВА + БИО   -->
 <!-- ======================================================== -->
-<img src="https://github.com/s1eepy-ya.png" width="280" align="left" alt="Avatar" style="margin-right: 25px; border-radius: 20px;" />
+<img src="https://raw.githubusercontent.com/s1eepy-ya/s1eepy-ya/main/art.png" width="280" align="left" alt="Art" style="margin-right: 25px; border-radius: 12px;" />
 
 <div align="right">
   <h2><b><i>Who Am I?</i></b></h2>
-  <p><b><i>𝒉𝒆𝒚, 𝒊'𝒎 𝒔1𝒆𝒆𝒑𝒚-𝒚𝒂</i></b> &nbsp;—&nbsp; <i>𝒇𝒐𝒓𝒆𝒗𝒆𝒓 𝒚𝒐𝒖𝒏𝒈</i></p>
+  <p><b><i>hey, i'm s1eepy-ya</i></b> &nbsp;—&nbsp; <i>forever young</i></p>
   <br/>
   <p>
     I am a developer focused on crafting clean logic, exploring modern technologies,<br/>
