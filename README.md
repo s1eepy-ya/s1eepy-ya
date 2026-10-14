@@ -1,9 +1,10 @@
 <!-- ======================================================== -->
 <!-- 1. САМЫЙ ВЕРХНИЙ БАННЕР / ТВОЯ ГИФКА                      -->
+<!-- Перетащи свою гифку в окно редактирования GitHub,          -->
+<!-- скопируй созданную ссылку и вставь её в src="..."        -->
 <!-- ======================================================== -->
 <p align="center">
-  <!-- Если закинул файл в репозиторий, оставь ./banner.gif. Либо вставь полученную ссылку https://... -->
-  <img src="./banner.gif" width="100%" alt="Header GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=s1eepy-ya&fontSize=50&fontAlignY=38&desc=forever%20young&descAlignY=60&theme=dark" width="100%" alt="Header Banner" />
 </p>
 
 <!-- ======================================================== -->
@@ -13,8 +14,8 @@
   <a href="https://github.com/s1eepy-ya">
     <img src="https://img.shields.io/github/stars/s1eepy-ya?style=for-the-badge&logo=star&logoColor=black&label=STARS&color=ffffff&labelColor=ffffff" alt="Stars" />
   </a>
-  <a href="https://github.com/s1eepy-ya">
-    <img src="https://img.shields.io/github/forks/s1eepy-ya?style=for-the-badge&logo=git-fork&logoColor=black&label=FORKS&color=ffffff&labelColor=ffffff" alt="Forks" />
+  <a href="https://github.com/s1eepy-ya/s1eepy-ya">
+    <img src="https://img.shields.io/github/forks/s1eepy-ya/s1eepy-ya?style=for-the-badge&logo=git-fork&logoColor=black&label=FORKS&color=ffffff&labelColor=ffffff" alt="Forks" />
   </a>
   <a href="https://github.com/s1eepy-ya?tab=followers">
     <img src="https://img.shields.io/github/followers/s1eepy-ya?style=for-the-badge&logo=github&logoColor=black&label=FOLLOWERS&color=ffffff&labelColor=ffffff" alt="Followers" />
@@ -24,32 +25,28 @@
 <br/>
 
 <!-- ======================================================== -->
-<!-- 3. ДВУХКОЛОНОЧНЫЙ БЛОК (АРТ СЛЕВА + БИОГРАФИЯ СПРАВА)     -->
+<!-- 3. ДВУХКОЛОНОЧНЫЙ БЛОК (КАРТИНКА СЛЕВА + БИО СПРАВА)     -->
+<!-- Замени src="..." на ссылку к своему арту, когда захочешь -->
 <!-- ======================================================== -->
-<table border="0" align="center" width="100%">
-  <tr style="border: none;">
-    <!-- Левая колонка: Твой второй баннер / арт / логотип -->
-    <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="./art.png" width="85%" alt="Art" />
-    </td>
+<img src="https://github.com/s1eepy-ya.png" width="280" align="left" alt="Avatar" style="margin-right: 25px; border-radius: 20px;" />
 
-    <!-- Правая колонка: Заголовок и био -->
-    <td width="65%" valign="middle" style="border: none;">
-      <h2 align="right"><b><i>𝒉𝒆𝒚, 𝒊'𝒎 𝒔1𝒆𝒆𝒑𝒚-𝒚𝒂</i></b></h2>
-      <p align="right"><i>𝒇𝒐𝒓𝒆𝒗𝒆𝒓 𝒚𝒐𝒖𝒏𝒈</i></p>
-      <br/>
-      <p align="right">
-        I am a developer focused on crafting clean logic, exploring modern technologies,
-        and building functional web & software projects.
-        <br/><br/>
-        Main stack: <code>Python</code>, <code>HTML5</code>, <code>Git</code>.
-        <br/><br/>
-        Always open for collaboration, continuous learning, and pushing technical versatility.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <h2><b><i>Who Am I?</i></b></h2>
+  <p><b><i>𝒉𝒆𝒚, 𝒊'𝒎 𝒔1𝒆𝒆𝒑𝒚-𝒚𝒂</i></b> &nbsp;—&nbsp; <i>𝒇𝒐𝒓𝒆𝒗𝒆𝒓 𝒚𝒐𝒖𝒏𝒈</i></p>
+  <br/>
+  <p>
+    I am a developer focused on crafting clean logic, exploring modern technologies,<br/>
+    and building functional web & software projects.
+  </p>
+  <p>
+    <b>Main stack:</b> <code>Python</code> &bull; <code>HTML5</code> &bull; <code>Git</code>
+  </p>
+  <p>
+    Always open for collaboration, continuous learning, and pushing technical versatility.
+  </p>
+</div>
 
+<br clear="both"/>
 <br/>
 
 <!-- ======================================================== -->
