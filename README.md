@@ -29,7 +29,7 @@
 
 <div align="right">
   <h2><b><i>Who Am I?</i></b></h2>
-  <p><b><i>hey, i'm s1eepy-ya</i></b> &nbsp;—&nbsp; <i>forever young</i></p>
+  <p><b><i>hey, i'm s1eepy-ya</i></b> &nbsp;—&nbsp;
   <br/>
   <p>
     I am a developer focused on crafting clean logic, exploring modern technologies,<br/>
